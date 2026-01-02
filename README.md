@@ -3,8 +3,8 @@
 This repo contains my lab reports on **RC** and **LCR/RLC** transient response measurements, including calculations and validation using **OrCAD/PSpice**.
 
 ## Contents
-- `pdf` — RC transient response (step response + time constant)
-- `pdf` — LCR transient response (underdamped + critical damping)
+- [RC transient response (step response + time constant)](docs/RC%20Transient.pdf)
+- [LCR transient response (underdamped + critical damping)](docs/LCR%20Transient.pdf)
 
 ## Tools & Equipment
 - OrCAD / PSpice (transient simulation)
